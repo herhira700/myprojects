@@ -1,2 +1,3 @@
 # myprojects
-this is a test repo
+This is a test repo.
+<h1>Friendly project.<h1>
